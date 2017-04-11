@@ -1,0 +1,105 @@
+*{margin:0;padding:0; }
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+.nentrang1 h3 {
+    font-weight: 700;
+}
+
+.nenxam1 h2 {
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 20px;
+}
+*{margin:0;padding:0;}
+
+.foot small {
+    color: gray;
+}
+
+.foot {
+    padding-bottom: 41px;
+}
+
+.menutrai li {
+    float: left;
+    list-style: none;
+    margin-right: 23px;
+    font-size: 14px;
+    padding-top: 50px;
+    padding-bottom: 23px;
+}
+
+.col-xs-5.col-sm-5.col-md-5.col-lg-5.cotphai {
+    margin-top: 31px;
+}
+
+.nenanh2 h1 {
+    font-weight: 900;
+    font-size: 42px;
+    text-shadow: 0px 1px 1px black;
+}
+
+.nenanh2 {
+    padding-bottom: 90px;
+    padding-top: 90px;
+    background: url(image/banner-bg.jpg);
+    color: white;
+}
+
+.nentrang1 p {
+    font-size: 16px;
+    padding-top: 20px;
+}
+
+.nentrang1 {
+    padding-bottom: 48px;
+    padding-top: 48px;
+}
+
+.nenxam1 p {
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+hr.ngan {
+    width: 47%;
+    background: black;
+    border-top: 4px solid #e7e7e7;
+}
+
+.nenxam1 {
+    padding-bottom: 48px;
+    padding-top: 48px;
+    background: #f8f8f8;
+    border-bottom: 1px solid #E7E7E7;
+}
+
+.nenanhtop h1 {
+    font-size: 50px;
+    font-weight: 900;
+    text-shadow: 1px 3px 2px black;
+}
+
+nav.navbar.navbar-default {
+    margin-bottom: 0px;
+}
+
+.nenanhtop {
+    padding-top: 230px;
+    padding-bottom: 280px;
+    background: url(image/intro-bg.jpg);
+    color: white;
+}
+
+
+body{font-family: 'Lato', sans-serif;}
+
+.nenanhtop h3 {
+    font-size: 23px;
+    text-shadow: 0px 2px 0px black;
+}
+﻿
+
+​
