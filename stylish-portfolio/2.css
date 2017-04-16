@@ -1,0 +1,70 @@
+*{margin:0;padding:0; }
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+}
+*{margin:0;padding:0;}
+
+.where h2 {
+    padding-bottom: 29px;
+    padding-top: 20px;
+}
+
+.about btn.btn-default {
+    font-size: 20px;
+    padding: 10px 25px;
+}
+
+.about p {
+    font-size: 15px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+.about {
+	padding-top: 9px;
+	background: #7f8c8d;
+	color: white;
+	padding-bottom: 18px;
+}
+
+.xanh h3 {}
+
+.background h3 {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.text-center {}
+
+.col-xs-12.col-sm-12.col-md-12.col-lg-12 {}
+
+nav.navbar.navbar-default {
+    border: none;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #e74c3c;
+}
+
+nav.navbar.navbar-default {
+    height: 80px;
+    padding-top: 10px;
+}
+
+body {
+    height: 80px;
+    padding: top;
+}
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+}
+.danhgia{color: brown}
+.navbar-brand{
+	font-weight: bold;
+}
+.background{
+	background-color: #2980b9;
+	padding-top: 50px;
+	color: white;
+	padding-bottom: 30px;
+}
