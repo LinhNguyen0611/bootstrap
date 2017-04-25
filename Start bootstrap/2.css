@@ -1,0 +1,28 @@
+*{margin:0;padding:0; }
+
+.navbar-default .navbar-brand {
+    padding-top: 44px;
+    font-size: 27px;
+    color: white;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    font-size: 14px;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #18BC9C;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+nav.navbar.navbar-default {
+    background: #2C3E50;
+    height: 111px;
+}
+
+ul.nav.navbar-nav.navbar-right {
+    padding-top: 46px;
+}
