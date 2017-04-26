@@ -1,5 +1,20 @@
 *{margin:0;padding:0; }
 
+a.btn.btn-default.download {
+    background: none;
+    border: 1px solid white;
+    padding: 13px 27px;
+    margin: 20px auto;
+    font-size: 18px;
+}
+
+.about {
+    background: #18BC9C;
+    margin-top: 100px;
+    padding-top: 111px;
+    padding-bottom: 70px;
+}
+
 .phongto {
     position: absolute;
     width: 100%;
@@ -44,6 +59,13 @@ h2 {
     /* padding-top: 110px; */
     color: #333;
 }
+
+.about h2 {
+    color: white;
+    font-size: 46px;
+}
+
+h2 {}
 
 .nenxanh h1 {
     color: white;
